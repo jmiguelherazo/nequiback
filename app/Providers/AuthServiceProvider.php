@@ -27,6 +27,6 @@ class AuthServiceProvider extends ServiceProvider
 
         //
 
-        Passport::routes();
+        Passport::routes(null, ['middleware' => [\Barryvdh\Cors\HandleCors::class]]);
     }
 }

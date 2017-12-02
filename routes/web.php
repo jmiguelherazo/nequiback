@@ -19,3 +19,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/nequi', 'HomeController@nequiTest')->name('nequi');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
