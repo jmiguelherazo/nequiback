@@ -1,0 +1,1078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userGoal"
+			],
+			[
+				"pock",
+				"pocket2"
+			],
+			[
+				"new_",
+				"new_money"
+			],
+			[
+				"po",
+				"pocket0"
+			],
+			[
+				"new",
+				"new_goal"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"ne",
+				"nequi"
+			],
+			[
+				"LIST_V",
+				"LIST_VALLEDUPAR"
+			],
+			[
+				"activi",
+				"activity_id"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"las",
+				"last_generate_id"
+			],
+			[
+				"findDoc",
+				"findDocCode"
+			],
+			[
+				"Servi",
+				"Service"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"reason_",
+				"reason_std"
+			],
+			[
+				"activ",
+				"activity_docs"
+			],
+			[
+				"Envio",
+				"EnviosLogisticosService"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"acti",
+				"activity_action"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"CUM",
+				"CUMPLIDO2"
+			],
+			[
+				"gu",
+				"guides"
+			],
+			[
+				"gui",
+				"guide"
+			],
+			[
+				"not",
+				"notified_at"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Gest",
+				"GestionFamisanar"
+			],
+			[
+				"Activ",
+				"ActivityAction"
+			],
+			[
+				"items",
+				"items3"
+			],
+			[
+				"Contr",
+				"Controller"
+			],
+			[
+				"empl",
+				"employment"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"RECO",
+				"RECOMMENDATIONS_TERMS"
+			],
+			[
+				"RECOM",
+				"RECOMMENDATIONS_FORMATS"
+			],
+			[
+				"RHB",
+				"RHB_TREATMENTS"
+			],
+			[
+				"RH",
+				"RHB_TREATMENTS"
+			],
+			[
+				"ORI",
+				"ORIGEN_DX3"
+			],
+			[
+				"ORIG",
+				"ORIGEN_DX2"
+			],
+			[
+				"DO",
+				"DOC_NUMBER"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"rwo",
+				"rows"
+			],
+			[
+				"rhb_form",
+				"rhb_format_notification"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"corre",
+				"correspondence_id"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"Em",
+				"Employment"
+			],
+			[
+				"affil",
+				"affiliate_id"
+			],
+			[
+				"aff",
+				"affiliate"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"doc",
+				"doc_number"
+			],
+			[
+				"ips",
+				"ips_nit"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"activity",
+				"activity_action"
+			],
+			[
+				"acivit",
+				"activity_id"
+			],
+			[
+				"dictum",
+				"dictum_id"
+			],
+			[
+				"info",
+				"information_source"
+			],
+			[
+				"FU",
+				"FUENTE_SERVICIO"
+			],
+			[
+				"clie",
+				"client_id"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"Act",
+				"Action"
+			],
+			[
+				"req",
+				"require_copy"
+			],
+			[
+				"delete",
+				"deleted_at"
+			],
+			[
+				"base64",
+				"base64_decode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"where",
+				"whereIn"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"auth",
+				"author_id"
+			],
+			[
+				"autho",
+				"author_id"
+			],
+			[
+				"dx",
+				"dxs_l"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"page-break-",
+				"page-break-after"
+			],
+			[
+				"page",
+				"page-break-inside"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"call",
+				"callAudio"
+			],
+			[
+				"cal",
+				"call_id"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"emp",
+				"employment"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"position",
+				"position_time"
+			],
+			[
+				"comp",
+				"company_time"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"civ",
+				"civil_status"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"pagi",
+				"pagination"
+			],
+			[
+				"Corresp",
+				"CorrespondenceItem"
+			],
+			[
+				"corres",
+				"correspondence"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"au",
+				"audit_"
+			],
+			[
+				"form",
+				"format_notification"
+			],
+			[
+				"rhb",
+				"rhb_format_notification"
+			],
+			[
+				"coll",
+				"collect"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"dic",
+				"dictum_dates"
+			],
+			[
+				"v_",
+				"v_time"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"val",
+				"valoration"
+			],
+			[
+				"SERVICE_VA",
+				"SERVICE_VALORATION_FAMISANAR"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"enet",
+				"entity_type"
+			],
+			[
+				"retu",
+				"returny"
+			],
+			[
+				"activit",
+				"activity_action"
+			],
+			[
+				"clos",
+				"closed"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"Acti",
+				"ActivityAction"
+			],
+			[
+				"RECOMENDACI",
+				"recomendación"
+			],
+			[
+				"activity_acti",
+				"activity_action"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"noti",
+				"notifications_zip"
+			],
+			[
+				"stor",
+				"storage_path"
+			],
+			[
+				"NOMB",
+				"NOMBRE_RESULTADO_AUDITORIA"
+			],
+			[
+				"T",
+				"Tipo_Inc"
+			],
+			[
+				"OR",
+				"ORIGEN_FINAL"
+			],
+			[
+				"notificat",
+				"notification_pcl"
+			],
+			[
+				"App",
+				"AppServiceProvider"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/ApiController.php",
+			"settings":
+			{
+				"buffer_size": 3489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2017_12_03_082530_add_points_to_goals.php",
+			"settings":
+			{
+				"buffer_size": 673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 1939,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Goal.php",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/LaravelProjects/nequiback",
+		"/C/Users/user/LaravelProjects/nequiback/app",
+		"/C/Users/user/LaravelProjects/nequiback/app/Exceptions",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http/Controllers",
+		"/C/Users/user/LaravelProjects/nequiback/app/Providers",
+		"/C/Users/user/LaravelProjects/nequiback/app/Util",
+		"/C/Users/user/LaravelProjects/nequiback/config",
+		"/C/Users/user/LaravelProjects/nequiback/database",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations",
+		"/C/Users/user/LaravelProjects/nequiback/resources",
+		"/C/Users/user/LaravelProjects/nequiback/resources/views",
+		"/C/Users/user/LaravelProjects/nequiback/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/user/LaravelProjects/nequiback/app/Goal.php",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations/2017_12_03_054538_create_pockets_table.php",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations/2017_12_03_074615_add_photo_to_users_table.php",
+		"/C/Users/user/LaravelProjects/nequiback/routes/api.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/User.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http/Controllers/ApiController.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Providers/AuthServiceProvider.php",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations/2017_12_02_210030_add_category_to_goals_table.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http/Kernel.php",
+		"/C/Users/user/LaravelProjects/nequiback/config/app.php",
+		"/C/Users/user/LaravelProjects/nequiback/config/cors.php",
+		"/C/Users/user/LaravelProjects/nequiback/composer.json",
+		"/C/Users/user/LaravelProjects/nequiback/app/Util/AwsSigner.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Util/NequiClient.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Http/Controllers/HomeController.php",
+		"/C/Users/user/LaravelProjects/nequiback/routes/web.php",
+		"/C/Users/user/LaravelProjects/nequiback/.gitignore",
+		"/C/Users/user/LaravelProjects/nequiback/.env",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations/2017_12_02_150300_create_user_goals_table.php",
+		"/C/Users/user/LaravelProjects/nequiback/database/migrations/2017_12_02_145927_create_goals_table.php",
+		"/C/Users/user/LaravelProjects/nequiback/app/Providers/AppServiceProvider.php",
+		"/C/Users/user/LaravelProjects/nequiback/config/auth.php",
+		"/C/Users/user/LaravelProjects/ren/app/MigrationFixSQLTotals.php",
+		"/C/Users/user/LaravelProjects/ren/app/MigrationFixSQL.php",
+		"/C/Users/user/LaravelProjects/ren/app/MigrationFix.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/MigrationFixController.php",
+		"/C/Users/user/Downloads/Trazabilidad3.csv",
+		"/C/Users/user/Downloads/ATEL.csv",
+		"/C/Users/user/LaravelProjects/ren/app/Service.php",
+		"/C/Users/user/Desktop/MEDIMAS/Trazabilidad1a.csv",
+		"/C/Users/user/Desktop/MEDIMAS/Trazabilidad1.csv",
+		"/C/Users/user/LaravelProjects/ren/.env",
+		"/C/Users/user/Downloads/Trazabilidad.csv",
+		"/C/Users/user/Downloads/Correspondencia.csv",
+		"/C/Users/user/Downloads/Documentos.csv",
+		"/C/Users/user/Downloads/Servicio.csv",
+		"/C/Users/user/Desktop/PCL TUTELA OLD FILES.txt",
+		"/C/Users/user/Downloads/RelacionLaboral.csv",
+		"/C/Users/user/Downloads/VinculacionLaboral.csv",
+		"/C/Users/user/LaravelProjects/ren/app/AFP.php",
+		"/C/Users/user/LaravelProjects/ren/app/ARL.php",
+		"/C/Users/user/LaravelProjects/ren/routes/web.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Reports/MedimasController.php",
+		"/C/Users/user/Google Drive/RENAPP/SQL - BASES - MEDIMAS/BASE3_Consolidacion.sql",
+		"/C/Users/user/LaravelProjects/ren/config/prologue-big.php",
+		"/C/Users/user/LaravelProjects/ren/config/app.php",
+		"/C/Users/user/Google Drive/RENAPP/SQL - BASES - MEDIMAS/BASE3_JCI.sql",
+		"/C/Users/user/Desktop/MEDIMAS/PERSONA.csv",
+		"/C/Users/user/LaravelProjects/ren/app/Report.php",
+		"/C/Users/user/Documents/NetBeansProjects/FileMigrator/target/classes/app.properties",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/ReportController.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/glosa/format.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/recobro/format.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Services/RecobroController.php",
+		"/C/Users/user/LaravelProjects/ren/app/Providers/AppServiceProvider.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Services/GlosaController.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/audit/form.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/glosas_estandar.json",
+		"/C/Users/user/LaravelProjects/ren/app/Services/EnviosLogisticosService.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/el/docs/employer_docs_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/at/docs/employer_docs_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/Activity.php",
+		"/C/Users/user/LaravelProjects/ren/app/Console/Kernel.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/CallController.php",
+		"/C/Users/user/LaravelProjects/ren/app/Console/Commands/VerifyEnviosLogisticos.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Integrations/EnviosLogisticosController.php",
+		"/C/Users/user/LaravelProjects/ren/storage/logs/schedule.log",
+		"/C/Users/user/LaravelProjects/ren/storage/logs/laravel.log",
+		"/C/Users/user/Desktop/R3napp123.pwd",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.071/eb-activity.log",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.084/cfn-hup.log",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.866/eb-commandprocessor.log",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.820/eb-tools.log",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.738/error_log",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.993/daemon.log",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/MigrationController.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Services/ELController.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Services/PCLController.php",
+		"/C/Users/user/Downloads/OLD20171031/tiendava_demo2.sql",
+		"/C/Users/user/Downloads/Dump20171101.sql",
+		"/C/Users/user/LaravelProjects/ren/app/CorrespondenceItem.php",
+		"/C/Users/user/Desktop/prueba mymaps.csv",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/ActionController.php",
+		"/C/Users/user/LaravelProjects/ren/config/database.php",
+		"/C/Users/user/LaravelProjects/ren/app/User.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/service.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/CorrespondenceController.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/home.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/admin/users.blade.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/user/LaravelProjects/ren/resources/views/activity/documents.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/ServiceController.php",
+		"/C/Users/user/LaravelProjects/ren/app/EPS.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/el/docs/saludtotal/dictum_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/el/docs/saludtotal/notification_04_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/el/docs/saludtotal/notification_10_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/affiliate/affiliate_form.blade.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/HomeController.php",
+		"/C/Users/user/LaravelProjects/ren/.ebextensions/project.config",
+		"/C/PHP/7.0.14/php.ini",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/ApiController.php",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/IMG-DOC TXT BY DATES.sql",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIb0.119/Leeme Importante !!!.txt",
+		"/C/Users/user/Documents/Age of empires 2/leeme.txt",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/IT TXT BY DATES.sql",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/RL TXT BY DATES.sql",
+		"/C/Users/user/Desktop/OLD20171031/REPORTE FAMISANAR (15-NOV-16 a 15-MAY-17)/RL.csv",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/RHB TXT BY DATES.sql",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/CD TXT BY DATES.sql",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/PCL TXT BY DATES.sql",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/EL TXT BY DATES.sql",
+		"/C/Users/user/Desktop/OLD20171031/REPORTE FAMISANAR (15-NOV-16 a 15-MAY-17)/PCL.csv",
+		"/C/Users/user/Google Drive/RENAPP/SQL - SOPORTE/AT TXT BY DATES.sql",
+		"/C/Users/user/Desktop/OLD20171031/REPORTE FAMISANAR (15-NOV-16 a 15-MAY-17)/EMPLEADORES.csv",
+		"/C/Users/user/LaravelProjects/ren/routes/api.php",
+		"/C/Users/user/LaravelProjects/ren/public/libs/pickadate.js-master/package.json",
+		"/C/Users/user/Desktop/R3napp123.pws",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/ReportMedimasController.php",
+		"/C/Users/user/Desktop/Famisanar123.pwd",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/Reports/MedimasB2Controller.php",
+		"/C/Users/user/LaravelProjects/ren/app/Http/Controllers/AdminController.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/correspondence_item.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/extras/force_el_docs.blade.php",
+		"/C/Users/user/LaravelProjects/ren/resources/views/services/rehabilitation/docs/rhb_format_notification_pdf.blade.php",
+		"/C/Users/user/LaravelProjects/ren/public/js/ciuo.json",
+		"/C/Users/user/LaravelProjects/ren/app/Affiliate.php",
+		"/C/Users/user/LaravelProjects/ren/composer.lock"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"experimentado",
+			"1000",
+			"250",
+			"goal",
+			"myPockets",
+			"pockets",
+			"goal",
+			"new_goal",
+			"false",
+			"Goal",
+			"goals",
+			"myGoals",
+			"goals",
+			"integer",
+			"double",
+			"find",
+			"nequi",
+			"']",
+			"['",
+			":",
+			"DOUBLE",
+			"//",
+			"NequiClient",
+			"home",
+			"makeSignedRequest",
+			"onDelete",
+			"onUpdate",
+			"onDelete",
+			"user_id",
+			"users",
+			"code",
+			"=> ",
+			"secret",
+			"homestead"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/ApiController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/migrations/2017_12_03_082530_add_points_to_goals.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Goal.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "nequiback.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\lawyers-portal\\lawyerapp.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 503.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
